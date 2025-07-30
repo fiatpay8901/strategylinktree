@@ -34,7 +34,7 @@ function App() {
           </div>
         </a>
 
-        <a href="https://t.me/Stratergyiloanbitcoin" className="link-card">
+        <a href="https://t.me/strategyiloanbitcoin" className="link-card">
           <div className="link-label">Telegram</div>
           <div className="dots">
             <div className="dot"></div>
