@@ -16,6 +16,16 @@ function App() {
 
       {/* Main Content */}
       <main className="main-content">
+
+        <a href="https://forms.gle/UUvco74QGt1ukUHx8" className="link-card">
+          <div className="link-label">Google Form</div>
+          <div className="dots">
+            <div className="dot"></div>
+            <div className="dot"></div>
+            <div className="dot"></div>
+          </div>
+        </a>
+
         <a href="https://strategyiloan.com" className="link-card">
           <div className="link-label">Visit Website</div>
           <div className="dots">
@@ -43,6 +53,8 @@ function App() {
           </div>
         </a>
 
+
+
         <a href="https://wa.me/16562001132" className="link-card">
           <div className="link-label">Chat on WhatsApp</div>
           <div className="dots">
@@ -51,6 +63,11 @@ function App() {
             <div className="dot"></div>
           </div>
         </a>
+
+
+        
+
+
       </main>
     </div>
   );
