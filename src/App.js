@@ -17,7 +17,7 @@ function App() {
       {/* Main Content */}
       <main className="main-content">
 
-        <a href="https://forms.gle/UUvco74QGt1ukUHx8" className="link-card">
+        <a href="https://forms.gle/v2oZDsJD7cD3g1DG6" className="link-card">
           <div className="link-label">Google Form</div>
           <div className="dots">
             <div className="dot"></div>
